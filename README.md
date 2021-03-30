@@ -13,6 +13,6 @@ Recently, I found this tweet again and decided to go on a hunt. And, it took me 
 
 After simply doing a search, I found a tweet of them celebrating their birthday! I won't share it here without Victoria's permission for privacy reasons (although it was only last year), but it was right there in front of me!
 
-So, 226 days are between their birthday and that tweet (in 2020). That's `0.619178082192`. Combining it with their age, then dividing 630594 by that number, gives us the grand result of: `23689.4617126`!
+So, 226 days are between their birthday and the original bean years tweet. That's `0.619178082192`. Combining it with their age, then dividing `630594` by that number, gives us the grand result of: `23689.4617126`!
 
-So, now it's time to make that into a website. JavaScript, my best friend!
+Then, I formed the website :]
