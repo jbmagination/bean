@@ -1,15 +1,24 @@
+@font-face {
+    font-family: 'VCR_OSD_MONO_1.001';
+    font-style: normal;
+    font-weight: normal;
+    src: local('VCR_OSD_MONO_1.001'), url('assets/VCR_OSD_MONO_1.001.woff');
+}
+
 html,
 body {
     background: #000;
     color: #fff;
+    font: 'VCR_OSD_MONO_1.001';
+    font-family: 'VCR_OSD_MONO_1.001';
 }
+
 .logo {
     padding-top: 25px;
     padding-bottom: 25px;
     width: 45%;
     height: auto;
 }
-
 a
 {
     color: #00ff00;
